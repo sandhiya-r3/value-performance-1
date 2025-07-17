@@ -1,1 +1,16 @@
-# value-performance-1
+import java.io.*;
+import java.util.*;
+import java.text.*;
+import java.math.*;
+import java.util.regex.*;
+
+public class Solution {
+
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int a = sc.nextInt();
+        float b = sc.nextFloat();
+        System.out.println(a);
+        System.out.printf("%.2f",b);
+    }
+}# value-performance-1
